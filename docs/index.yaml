@@ -1,6 +1,7 @@
 baseurl: https://SparkWorksnet.github.io/twinbase-leeaf
 owner:
   dt-id: http://d-t.fi/juuso
+dt-id: http://d-t.fi/juuso
 repo_url: https://github.com/SparkWorksnet/twinbase-leeaf
 new_twin_url: https://github.com/SparkWorksnet/twinbase-leeaf/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
