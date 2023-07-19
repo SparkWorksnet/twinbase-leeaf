@@ -1,4 +1,5 @@
 baseurl: https://twinbase-leeaf.sparkworks.net
+dt-id: http://d-t.fi/sparkworks
 owner:
   dt-id: http://d-t.fi/sparkworks
 repo_url: https://github.com/SparkWorksnet/twinbase-leeaf
