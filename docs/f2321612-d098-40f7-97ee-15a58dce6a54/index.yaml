@@ -1,0 +1,18 @@
+'@context':
+- '@vocab': https://twinschema.org/
+- saref: https://saref.etsi.org/core/
+- s4city: https://saref.etsi.org/saref4city/
+- iotcity: https://iotcity.twinschema.org/
+- geo: http://www.w3.org/2003/01/geo/wgs84_pos#
+'@type':
+- https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4146
+geo:
+- lat: 41.0904818
+- long: 24.2735063
+dt-id: https://dtid.org/bb4efecd-7248-48bc-ac2e-1cbf050af029
+hosting-iri: https://SparkWorksnet.github.io/twinbase-leeaf/bb4efecd-7248-48bc-ac2e-1cbf050af029
+name: Olive Tree
+description: Olive Tree in testing grounds for the SparkWorks LEEAF experiment in the IoT-Ngin OC 2.
+baseurl: https://SparkWorksnet.github.io/twinbase-leeaf
+edit: https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/bb4efecd-7248-48bc-ac2e-1cbf050af029/index.yaml
+edit-json: https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/bb4efecd-7248-48bc-ac2e-1cbf050af029/index.json
