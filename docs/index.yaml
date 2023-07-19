@@ -8,3 +8,5 @@ new_twin_url: https://github.com/SparkWorksnet/twinbase-leeaf/new/main?filename=
 twins:
 - url: https://twinbase-leeaf.sparkworks.net/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
+- url: https://twinbase-leeaf.sparkworks.net/bb4efecd-7248-48bc-ac2e-1cbf050af029
+  name: LEEAF Farm
