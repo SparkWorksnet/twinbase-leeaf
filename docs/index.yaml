@@ -1,5 +1,6 @@
 baseurl: https://twinbase-leeaf.sparkworks.net
 dt-id: http://d-t.fi/sparkworks
+hosting-iri: https://sparkworksnet.github.io/twinbase-smart-city
 owner:
   dt-id: http://d-t.fi/sparkworks
 repo_url: https://github.com/SparkWorksnet/twinbase-leeaf
