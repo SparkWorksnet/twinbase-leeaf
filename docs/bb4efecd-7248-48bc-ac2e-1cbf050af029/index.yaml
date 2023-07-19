@@ -1,4 +1,7 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/bb4efecd-7248-48bc-ac2e-1cbf050af029
+hosting-iri: https://SparkWorksnet.github.io/twinbase-leeaf/bb4efecd-7248-48bc-ac2e-1cbf050af029
 name: LEEAF Farm
 description: Write description here.
+baseurl: https://SparkWorksnet.github.io/twinbase-leeaf
+edit: https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/bb4efecd-7248-48bc-ac2e-1cbf050af029/index.yaml
+edit-json: https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/bb4efecd-7248-48bc-ac2e-1cbf050af029/index.json
