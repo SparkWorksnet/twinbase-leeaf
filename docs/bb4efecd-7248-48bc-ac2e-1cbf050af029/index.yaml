@@ -7,8 +7,6 @@
 '@type':
 - saref:Farm
 geo:location:
-  '@type': geo:lat
-  '@value': 41.0904818
   '@type': geo:long
   '@value': 24.2735063
 dt-id: https://dtid.org/bb4efecd-7248-48bc-ac2e-1cbf050af029

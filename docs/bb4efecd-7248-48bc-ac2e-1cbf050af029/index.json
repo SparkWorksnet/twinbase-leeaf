@@ -19,14 +19,10 @@
     "@type": [
         "saref:Farm"
     ],
-    "geo:location": [
-        {
-            "lat": 41.0904818
-        },
-        {
-            "long": 24.2735063
-        }
-    ],
+    "geo:location": {
+        "@type": "geo:long",
+        "@value": 24.2735063
+    },
     "dt-id": "https://dtid.org/bb4efecd-7248-48bc-ac2e-1cbf050af029",
     "hosting-iri": "https://SparkWorksnet.github.io/twinbase-leeaf/bb4efecd-7248-48bc-ac2e-1cbf050af029",
     "name": "LEEAF Farm",
