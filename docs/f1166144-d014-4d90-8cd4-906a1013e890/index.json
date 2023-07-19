@@ -1,8 +1,30 @@
 {
+    "@context": [
+        {
+            "@vocab": "https://twinschema.org/"
+        },
+        {
+            "saref": "https://saref.etsi.org/core/"
+        },
+        {
+            "s4city": "https://saref.etsi.org/saref4city/"
+        },
+        {
+            "iotcity": "https://iotcity.twinschema.org/"
+        },
+        {
+            "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+        }
+    ],
+    "@type": [
+        "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4146"
+    ],
+    "geo:lat": 41.0904818,
+    "geo:long": 24.2735063,
     "dt-id": "https://dtid.org/f1166144-d014-4d90-8cd4-906a1013e890",
     "hosting-iri": "https://SparkWorksnet.github.io/twinbase-leeaf/f1166144-d014-4d90-8cd4-906a1013e890",
-    "name": "Change me!",
-    "description": "Write description here.",
+    "name": "Olive Tree 2",
+    "description": "Olive Tree in testing grounds for the SparkWorks LEEAF experiment in the IoT-Ngin OC 2.",
     "baseurl": "https://SparkWorksnet.github.io/twinbase-leeaf",
     "edit": "https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/f1166144-d014-4d90-8cd4-906a1013e890/index.yaml",
     "edit-json": "https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/f1166144-d014-4d90-8cd4-906a1013e890/index.json"
