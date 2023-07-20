@@ -5,7 +5,7 @@
 - iotcity: https://iotcity.twinschema.org/
 - geo: http://www.w3.org/2003/01/geo/wgs84_pos#
 - s4agri: https://saref.etsi.org/saref4agri/
-- drone: http://www.dronetology.net/
+- drone: http://dronetology.net/dronetology/
 '@type':
 - drone:HomeLocation
 geo:lat: 41.09071007519777
