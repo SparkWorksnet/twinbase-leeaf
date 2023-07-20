@@ -4,10 +4,12 @@
 - s4city: https://saref.etsi.org/saref4city/
 - iotcity: https://iotcity.twinschema.org/
 - geo: http://www.w3.org/2003/01/geo/wgs84_pos#
+- s4agri: https://saref.etsi.org/saref4agri/
 '@type':
 - https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4146
 geo:lat: 41.0904818
 geo:long: 24.2735063
+s4agri:isContainedIn: https://SparkWorksnet.github.io/twinbase-leeaf/69a7cae2-f94b-4b37-b003-7c0d3f005832
 dt-id: https://dtid.org/f1166144-d014-4d90-8cd4-906a1013e890
 hosting-iri: https://SparkWorksnet.github.io/twinbase-leeaf/f1166144-d014-4d90-8cd4-906a1013e890
 name: Olive Tree 2
