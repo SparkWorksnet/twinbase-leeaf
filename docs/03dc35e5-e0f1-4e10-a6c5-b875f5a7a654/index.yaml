@@ -1,3 +1,15 @@
+'@context':
+- '@vocab': https://twinschema.org/
+- saref: https://saref.etsi.org/core/
+- s4city: https://saref.etsi.org/saref4city/
+- iotcity: https://iotcity.twinschema.org/
+- geo: http://www.w3.org/2003/01/geo/wgs84_pos#
+- s4agri: https://saref.etsi.org/saref4agri/
+- drone: http://www.dronetology.net/
+'@type':
+- drone:HomeLocation
+geo:lat: 41.09071007519777
+geo:long: 24.273460038582964
 dt-id: https://dtid.org/03dc35e5-e0f1-4e10-a6c5-b875f5a7a654
 hosting-iri: https://SparkWorksnet.github.io/twinbase-leeaf/03dc35e5-e0f1-4e10-a6c5-b875f5a7a654
 name: Home Location
