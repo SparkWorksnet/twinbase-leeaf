@@ -7,8 +7,8 @@
 - s4agri: https://saref.etsi.org/saref4agri/
 '@type':
 - https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4146
-geo:lat: 41.0904818
-geo:long: 24.2735063
+geo:lat: 41.090668634427594
+geo:long: 24.27348350791001
 s4agri:isContainedIn: https://SparkWorksnet.github.io/twinbase-leeaf/69a7cae2-f94b-4b37-b003-7c0d3f005832
 dt-id: https://dtid.org/bb4efecd-7248-48bc-ac2e-1cbf050af029
 hosting-iri: https://SparkWorksnet.github.io/twinbase-leeaf/f2321612-d098-40f7-97ee-15a58dce6a54
