@@ -6,6 +6,7 @@
 - geo: http://www.w3.org/2003/01/geo/wgs84_pos#
 '@type':
 - saref:Farm
+s4agri:contains: https://dtid.org/69a7cae2-f94b-4b37-b003-7c0d3f005832
 geo:lat: 41.0904818
 geo:long: 24.2735063
 dt-id: https://dtid.org/bb4efecd-7248-48bc-ac2e-1cbf050af029
