@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/03dc35e5-e0f1-4e10-a6c5-b875f5a7a654",
+    "hosting-iri": "https://SparkWorksnet.github.io/twinbase-leeaf/03dc35e5-e0f1-4e10-a6c5-b875f5a7a654",
+    "name": "Home Location",
+    "description": "Drone Home Location.",
+    "baseurl": "https://SparkWorksnet.github.io/twinbase-leeaf",
+    "edit": "https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/03dc35e5-e0f1-4e10-a6c5-b875f5a7a654/index.yaml",
+    "edit-json": "https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/03dc35e5-e0f1-4e10-a6c5-b875f5a7a654/index.json"
+}
