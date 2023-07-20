@@ -13,7 +13,8 @@ s4agri:isContainedIn: https://SparkWorksnet.github.io/twinbase-leeaf/69a7cae2-f9
 dt-id: https://dtid.org/41699464-c1c6-4402-af96-2dfcdd9d0d99
 hosting-iri: https://SparkWorksnet.github.io/twinbase-leeaf/41699464-c1c6-4402-af96-2dfcdd9d0d99
 name: Olive Tree 20
-description: Olive Tree in testing grounds for the SparkWorks LEEAF experiment in the IoT-Ngin OC 2.
+description: Olive Tree in testing grounds for the SparkWorks LEEAF experiment in
+  the IoT-Ngin OC 2.
 baseurl: https://SparkWorksnet.github.io/twinbase-leeaf
 edit: https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/41699464-c1c6-4402-af96-2dfcdd9d0d99/index.yaml
 edit-json: https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/41699464-c1c6-4402-af96-2dfcdd9d0d99/index.json
