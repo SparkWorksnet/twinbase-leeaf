@@ -23,7 +23,9 @@
     "hosting-iri": "https://SparkWorksnet.github.io/twinbase-leeaf/69a7cae2-f94b-4b37-b003-7c0d3f005832",
     "s4agri:contains": [
         "https://SparkWorksnet.github.io/twinbase-leeaf/f2321612-d098-40f7-97ee-15a58dce6a54",
-        "https://SparkWorksnet.github.io/twinbase-leeaf/f1166144-d014-4d90-8cd4-906a1013e890"
+        "https://SparkWorksnet.github.io/twinbase-leeaf/f1166144-d014-4d90-8cd4-906a1013e890",
+        "https://SparkWorksnet.github.io/twinbase-leeaf/9a7ade6f-4cd8-43a6-8141-1307a2f4779f",
+        "https://SparkWorksnet.github.io/twinbase-leeaf/4d153510-efa4-4e84-9ec7-f5030187f7aa"
     ],
     "name": "LEEAF Farm Parcel",
     "description": "Testing grounds for the SparkWorks LEEAF experiment in the IoT-Ngin OC 2.",
