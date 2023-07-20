@@ -6,6 +6,8 @@ owner:
 repo_url: https://github.com/SparkWorksnet/twinbase-leeaf
 new_twin_url: https://github.com/SparkWorksnet/twinbase-leeaf/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
+- url: https://twinbase-leeaf.sparkworks.net/69a7cae2-f94b-4b37-b003-7c0d3f005832
+  name: LEEAF Farm Parcel
 - url: https://twinbase-leeaf.sparkworks.net/bb4efecd-7248-48bc-ac2e-1cbf050af029
   name: LEEAF Farm
 - url: https://twinbase-leeaf.sparkworks.net/9a7ade6f-4cd8-43a6-8141-1307a2f4779f
