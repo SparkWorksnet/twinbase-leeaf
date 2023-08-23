@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/e8f97590-8cd8-430c-8fa9-d2d6815935fb",
+    "hosting-iri": "https://SparkWorksnet.github.io/twinbase-leeaf/e8f97590-8cd8-430c-8fa9-d2d6815935fb",
+    "name": "Olive Tree 25",
+    "description": "Olive Tree in testing grounds for the SparkWorks LEEAF experiment in the IoT-Ngin OC 2.",
+    "baseurl": "https://SparkWorksnet.github.io/twinbase-leeaf",
+    "edit": "https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/e8f97590-8cd8-430c-8fa9-d2d6815935fb/index.yaml",
+    "edit-json": "https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/e8f97590-8cd8-430c-8fa9-d2d6815935fb/index.json"
+}
