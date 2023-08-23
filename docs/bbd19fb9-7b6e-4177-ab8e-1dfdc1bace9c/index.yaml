@@ -1,4 +1,8 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/bbd19fb9-7b6e-4177-ab8e-1dfdc1bace9c
+hosting-iri: https://SparkWorksnet.github.io/twinbase-leeaf/bbd19fb9-7b6e-4177-ab8e-1dfdc1bace9c
 name: Olive Tree 21
-description: Olive Tree in testing grounds for the SparkWorks LEEAF experiment in the IoT-Ngin OC 2.
+description: Olive Tree in testing grounds for the SparkWorks LEEAF experiment in
+  the IoT-Ngin OC 2.
+baseurl: https://SparkWorksnet.github.io/twinbase-leeaf
+edit: https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/bbd19fb9-7b6e-4177-ab8e-1dfdc1bace9c/index.yaml
+edit-json: https://github.com/SparkWorksnet/twinbase-leeaf/edit/main/docs/bbd19fb9-7b6e-4177-ab8e-1dfdc1bace9c/index.json
